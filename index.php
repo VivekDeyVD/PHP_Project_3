@@ -14,7 +14,7 @@
             min-height: 433px;
         }
     </style>
-    <title>Welcome to iDiscuss - Codi Forums</title>
+    <title>Welcome to iiscuss - Codi Forums</title>
 </head>
 
 <body>
