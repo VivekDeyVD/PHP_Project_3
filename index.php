@@ -21,7 +21,7 @@
     <?php include 'partials/_dbconnect.php';?>
     <?php include 'partials/_header.php';?>
 
-    <!-- Slider starts here -->
+    <!-- Sider starts here -->
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
